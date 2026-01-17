@@ -26,8 +26,13 @@
     </a>
   </p>
   
-  <br />
 </div>
+
+<br />
+<div align="center">
+  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="550" alt="Jokes Card" />
+</div>
+<br />
 
 ---
 
@@ -112,33 +117,20 @@
 | **TA Management Backend** | `Node.js`, `Appwrite` | Built a robust backend system to manage Teaching Assistants workflow. |
 | **Personal Portfolio** | `React`, `Framer` | My personal developer portfolio with smooth animations. |
 
-
-### 🧠 Coding Profile (LeetCode)
-<div align="center">
-  <img src="https://leetcard.jacoblin.cool/rsingad?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
-</div>
-<br/>
 ---
-
-### ⚡ Daily Dose of Dev Humor
-<div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" alt="Jokes Card" />
-</div>
-
-<br/>
 
 ### 📊 GitHub Analytics & Data
 
 <div align="center">
   
-  <img src="https://ghchart.rshah.org/2026/5BCDEC/rsingad" alt="2026 Github Chart" />
+  <img src="https://github-readme-snake.vercel.app/api?username=rsingad&palette=github-dark&color_snake=5BCDEC&color_dots=#161b22,#0e4429,#006d32,#26a641,#39d353" alt="Snake Animation" />
   
   <br/><br/>
 
   <table>
     <tr>
       <td align="center" width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsingad&theme=tokyonight" alt="Solar System" />
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsingad&theme=tokyonight" alt="Languages" />
       </td>
       <td align="center" width="50%">
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsingad&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
@@ -155,6 +147,9 @@
   <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
 </div>
+
+---
+
 <div align="center">
   <br>
   <p><i>Made with ❤️ and lots of ☕ by <a href="https://github.com/rsingad">Ramesh Singar</a></i></p>
