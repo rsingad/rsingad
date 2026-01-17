@@ -118,8 +118,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
 ### 🏆 Achievements & Analytics
 
 <div align="center">
@@ -136,7 +134,7 @@
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak Stats" />
   </a>
 
-  <br/>
+  <br/><br/>
 
   <a href="https://github.com/rsingad">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
@@ -150,28 +148,6 @@
 
   <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-</div>
-
----
-### 📊 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsingad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-</div>
-
----
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=8)
-
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=000000)
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
