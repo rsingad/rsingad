@@ -127,52 +127,34 @@
 
 <br/>
 
-### 📊 GitHub Activity
-
-<div align="center">
-  
- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsingad&theme=tokyonight" alt="3D Graph" />
-
-  <br/><br/>
-  
-  
-  <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-
-</div>
-### 📅 2026 Contributions
-<div align="center">
-  <img src="https://ghchart.rshah.org/2026/5BCDEC/rsingad" alt="2026 Github Chart" />
-</div>
-### 📅 2026 Activity
-<div align="center">
-  <img src="https://isometric-contributions.vercel.app/api/isometric?username=rsingad&year=2026&theme=tokyonight" alt="2026 Isometric Chart" />
-</div>
-### 📊 GitHub Activity (2026)
+### 📊 GitHub Analytics & Data
 
 <div align="center">
   
   <img src="https://ghchart.rshah.org/2026/5BCDEC/rsingad" alt="2026 Github Chart" />
-
-  <br/><br/>
   
-  <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <br/><br/>
 
-</div>
-### 📈 2026 Activity Graph
-<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsingad&theme=tokyonight" alt="Solar System" />
+      </td>
+      <td align="center" width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsingad&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsingad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
-</div>
-### ⏰ When I Code (2026)
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rsingad&theme=tokyonight&utcOffset=5.5" alt="Productive Time" />
-</div>
-### 🪐 My Code Universe
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rsingad&theme=tokyonight" alt="Solar System" />
-</div>
 
----
+  <br/><br/>
 
+  <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
+</div>
 <div align="center">
   <br>
   <p><i>Made with ❤️ and lots of ☕ by <a href="https://github.com/rsingad">Ramesh Singar</a></i></p>
