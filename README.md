@@ -120,24 +120,11 @@
 
 ### 📊 GitHub Activity & Stats
 
-<div align="center">
-  
-  <a href="https://github.com/rsingad">
-    <img src="https://github-readme-stats.vercel.app/api?username=rsingad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/rsingad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=000000" height="160" alt="Streak Stats" />
-  </a>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsingad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000)
 
-  <br/>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=000000)
 
-  <a href="https://github.com/rsingad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=6" height="160" alt="Top Languages" />
-  </a>
-
-</div>
-
-<br/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=6)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
