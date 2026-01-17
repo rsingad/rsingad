@@ -1,33 +1,34 @@
 <div align="center">
   
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:8E2DE2,100:4A00E0&height=200&section=header&text=RAMESH%20SINGAR&font=Press%20Start%202P&fontSize=40&animation=fadeIn&fontAlignY=50&desc=LEVEL%202026%20%7C%20HP:%20100%25%20%7C%20EXP:%20DEVOPS&descSize=12&descAlignY=80&fontColor=ffffff" alt="Retro Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF416C,100:FF4B2B&height=220&section=header&text=Ramesh%20Singar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Physics%20Mode:%20ON%20%7C%20Velocity:%20Max%20%7C%20Mass:%20High&descAlignY=65&descSize=18&fontColor=ffffff" alt="Gravity Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&weight=500&size=30&duration=3000&pause=1000&color=4A00E0&center=true&vCenter=true&width=500&lines=INSERT+COIN+TO+START...;SELECT+PLAYER:+RAMESH;LOADING+SKILLS:+REACT,+NODE,+LINUX...;MISSION:+DEPLOY+SCALABLE+APPS;PRESS+START+TO+CONNECT!+%F0%9F%95%B9%EF%B8%8F" alt="Retro Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=FF4B2B&center=true&vCenter=true&width=600&height=80&lines=Initializing+Gravity+Simulation...;F+%3D+m+*+a+(Force+%3D+Code+*+Effort);Status:+Accelerating+Development...;Target:+Terminal+Velocity+Reached!+%F0%9F%8D%8E" alt="Physics Typing" />
   </a>
+
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=15&section=footer&animation=fadeIn" width="100%" />
 
   <br />
 
   <p align="center">
     <a href="mailto:r.singerjat@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/ramesh-singar/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/rsingad">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
     &nbsp;
     <a href="https://instagram.com/_teja_tiger">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
   
 </div>
-
 <br />
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=000000&aColor=333333&bgColor=ffffff00" width="550" alt="Random Joke" />
