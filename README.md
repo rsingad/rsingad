@@ -120,8 +120,27 @@
 
 ### 📊 GitHub Stats
 
-![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsingad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000)
+### 🏆 Achievements & Trophies
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=rsingad&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="rsingad trophies" />
+</div>
+
+<br/>
+
+### 📊 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsingad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+</div>
+
+---
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=8)
 
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=000000)
