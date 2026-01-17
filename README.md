@@ -118,17 +118,29 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rsingad&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=react&hide_border=true&bg_color=0D1117" height="160" alt="languages graph" />
+  
+  <a href="https://github.com/rsingad">
+    <img src="https://github-readme-stats.vercel.app/api?username=rsingad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="160" alt="GitHub Stats" />
+  </a>
+  <a href="https://github.com/rsingad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=000000" height="160" alt="Streak Stats" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/rsingad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=6" height="160" alt="Top Languages" />
+  </a>
+
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=rsingad&label=Profile%20Views&color=blue&style=flat" alt="rsingad" />
+  <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 </div>
 
 ---
