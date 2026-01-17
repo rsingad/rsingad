@@ -1,12 +1,10 @@
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF416C,100:FF4B2B&height=220&section=header&text=Ramesh%20Singar&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Physics%20Mode:%20ON%20%7C%20Velocity:%20Max%20%7C%20Mass:%20High&descAlignY=65&descSize=18&fontColor=ffffff" alt="Gravity Header" width="100%" />
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=250&section=header&text=Ramesh%20Singar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=62&descSize=20&fontColor=ffffff" alt="Ramesh Singar Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&duration=3000&pause=500&color=FF4B2B&center=true&vCenter=true&width=600&height=80&lines=Initializing+Gravity+Simulation...;F+%3D+m+*+a+(Force+%3D+Code+*+Effort);Status:+Accelerating+Development...;Target:+Terminal+Velocity+Reached!+%F0%9F%8D%8E" alt="Physics Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps...;Exploring+DevOps+%26+Cloud...;Learning+Generative+AI+%26+Entropy...;Always+Ready+to+Code!" alt="Typing SVG" />
   </a>
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF416C,100:FF4B2B&height=15&section=footer&animation=fadeIn" width="100%" />
 
   <br />
 
@@ -29,7 +27,6 @@
   </p>
   
 </div>
-<br />
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=000000&aColor=333333&bgColor=ffffff00" width="550" alt="Random Joke" />
 </div>
