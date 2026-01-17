@@ -1,4 +1,4 @@
-<div align="center">
+ <div align="center">
  
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=250&section=header&text=Ramesh%20Singar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=62&descSize=20&fontColor=ffffff" alt="Ramesh Singar Header" width="100%" />
 
@@ -49,6 +49,7 @@ I am a Computer Engineering student at **Government Engineering College, Jaipur*
   <img src="https://img.shields.io/badge/Frontend-Development-black?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Frontend" />
   <br />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" />
@@ -83,6 +84,9 @@ I am a Computer Engineering student at **Government Engineering College, Jaipur*
   <img src="https://img.shields.io/badge/Linux_Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
 
