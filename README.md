@@ -1,6 +1,6 @@
 <div align="center">
  
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=0:FF8008,100:FFC837&height=250&section=header&text=Ramesh%20Singar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=62&descSize=20&fontColor=ffffff" alt="Royal Header" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,25&height=200&section=header&text=Ramesh%20Singar&fontSize=80&animation=twinkling&fontAlignY=50&desc=DevOps%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=80&descSize=20&fontColor=ffffff" alt="Minimal Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps...;Exploring+DevOps+%26+Cloud...;Learning+Generative+AI+%26+Entropy...;Always+Ready+to+Code!" alt="Typing SVG" />
