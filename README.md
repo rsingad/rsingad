@@ -28,7 +28,7 @@
   
 </div>
 <br />
-<div align="center"> 🤣
+<div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=000000&aColor=333333&bgColor=ffffff00" width="550" alt="Random Joke" />
 </div>
 ---
