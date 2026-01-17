@@ -118,13 +118,13 @@
 
 ---
 
-### 📊 GitHub Activity & Stats
+### 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsingad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000)
+![Ramesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rsingad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=000000)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=8)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&langs_count=6)
+![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=000000)
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
