@@ -112,6 +112,12 @@
 | **TA Management Backend** | `Node.js`, `Appwrite` | Built a robust backend system to manage Teaching Assistants workflow. |
 | **Personal Portfolio** | `React`, `Framer` | My personal developer portfolio with smooth animations. |
 
+
+### 🧠 Coding Profile (LeetCode)
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/rsingad?theme=tokyonight&font=Fira%20Code&ext=heatmap" alt="LeetCode Stats" />
+</div>
+<br/>
 ---
 
 ### ⚡ Daily Dose of Dev Humor
@@ -125,7 +131,7 @@
 
 <div align="center">
   
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsingad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rsingad&theme=tokyonight" alt="3D Graph" />
 
   <br/><br/>
   
