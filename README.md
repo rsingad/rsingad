@@ -30,7 +30,17 @@
 
 <br />
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=light" width="550" alt="Jokes Card" />
+  
+  <h3>
+    <img src="https://media.giphy.com/media/26n6R5HOYPbekK0YE/giphy.gif" width="28" /> 
+    Daily Dose of Debugging Humor
+    <img src="https://media.giphy.com/media/26n6R5HOYPbekK0YE/giphy.gif" width="28" />
+  </h3>
+
+  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=light&qColor=000000&aColor=333333" width="550" alt="Jokes Card" />
+  
+  <p><i>(Refresh the page to see a new joke!)</i> 🔄</p>
+
 </div>
 <br />
 
