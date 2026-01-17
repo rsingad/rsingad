@@ -30,7 +30,7 @@
 
 <br />
 <div align="center">
-  <img src="https://readme-jokes.vercel.app/api?theme=tokyonight" width="550" alt="Jokes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=light" width="550" alt="Jokes Card" />
 </div>
 <br />
 
