@@ -1,20 +1,32 @@
 <div align="center">
-  
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=3000&pause=1000&color=2F81F7&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Ramesh+Singar;Full+Stack+Developer;DevOps+%26+Linux+Enthusiast;AI+%26+Machine+Learning+Learner" alt="Typing SVG" />
+ 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=250&section=header&text=Ramesh%20Singar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=62&descSize=20&fontColor=ffffff" alt="Ramesh Singar Header" width="100%" />
 
-  <h2 align="center">🚀 Building Scalable Web Apps & Exploring AI</h2>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=336699&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps...;Exploring+DevOps+%26+Cloud...;Learning+Generative+AI+%26+Entropy...;Always+Ready+to+Code!" alt="Typing SVG" />
+  </a>
+
+  <br />
 
   <p align="center">
     <a href="mailto:r.singerjat@gmail.com">
-      <img src="https://img.shields.io/badge/Email-r.singerjat%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
     </a>
+    &nbsp;
     <a href="https://www.linkedin.com/in/ramesh-singar/">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    &nbsp;
     <a href="https://github.com/rsingad">
-      <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    &nbsp;
+    <a href="https://instagram.com/YOUR_INSTA">
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
     </a>
   </p>
+  
+  <br />
 </div>
 
 ---
@@ -49,9 +61,9 @@ I am a Computer Engineering student at **Government Engineering College, Jaipur*
 
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Shree Dev Tour & Travel** | `Next.js`, `Tailwind CSS` | A full-fledged travel booking website featuring modern UI components and responsive design. |
-| **TA Management Backend** | `Node.js`, `Express`, `Appwrite` | Built a robust backend system to manage Teaching Assistants and educational workflows. |
-| **Personal Portfolio** | `React`, `Framer Motion` | My personal developer portfolio with smooth animations and interactive sections. |
+| **Shree Dev Tour & Travel** |  | A full-fledged travel booking website featuring modern UI components and responsive design. |
+| **TA Management Backend** |  | Built a robust backend system to manage Teaching Assistants and educational workflows. |
+| **Personal Portfolio** |  | My personal developer portfolio with smooth animations and interactive sections. |
 
 ---
 
