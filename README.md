@@ -106,7 +106,7 @@
 
 | Project Name | Tech Stack | Description |
 | :--- | :--- | :--- |
-| **Shree Dev Tour & Travel** | `Next.js`, `Tailwind` | A full-fledged travel booking website featuring modern UI. |
+| **Shree Dev Tour & Travel** | `react.js`, `Tailwind` | A full-fledged travel booking website featuring modern UI. |
 | **TA Management Backend** | `Node.js`, `Appwrite` | Built a robust backend system to manage Teaching Assistants workflow. |
 | **Personal Portfolio** | `React`, `Framer` | My personal developer portfolio with smooth animations. |
 
