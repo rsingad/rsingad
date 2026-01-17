@@ -30,17 +30,14 @@
 
 <br />
 <div align="center">
-  
+  <br/>
   <h3>
-    <img src="https://media.giphy.com/media/26n6R5HOYPbekK0YE/giphy.gif" width="28" /> 
-    Daily Dose of Debugging Humor
-    <img src="https://media.giphy.com/media/26n6R5HOYPbekK0YE/giphy.gif" width="28" />
+    🤣 
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&center=false&vCenter=true&width=500&lines=Why+do+programmers+prefer+dark+mode%3F;Because+light+attracts+bugs!+%F0%9F%90%9B;Bhai+code+chal+gaya!+(It+works!);Ek+Semicolon+ki+kimat+tum+kya+jano...;Debugging+is+like+being+a+detective.;Error+404:+Dimag+Not+Found!+%F0%9F%A4%AF" alt="Typing Jokes" />
+    </a>
   </h3>
-
-  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=light&qColor=000000&aColor=333333" width="550" alt="Jokes Card" />
-  
-  <p><i>(Refresh the page to see a new joke!)</i> 🔄</p>
-
+  <br/>
 </div>
 <br />
 
