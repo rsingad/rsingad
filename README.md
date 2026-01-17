@@ -26,13 +26,16 @@
   </p>
   
 </div>
+<br />
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</div>
+<br />
+
+### 👨‍💻 About Me
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=000000&aColor=333333&bgColor=ffffff00" width="550" alt="Random Joke" />
 </div>
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-### 👨‍💻 About Me
-
 <img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
 
 <p>
