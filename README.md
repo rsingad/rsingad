@@ -30,7 +30,7 @@
 
 <br />
 <div align="center"> 
-  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=light&qColor=000000&aColor=333333" width="550" alt="Random Joke" />
+  <img src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=000000&aColor=333333&bgColor=ffffff00" width="550" alt="Random Joke" />
 </div>
 <br />
 
