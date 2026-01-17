@@ -1,6 +1,4 @@
-###
 <div align="center">
- 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,3,4,5&height=250&section=header&text=Ramesh%20Singar&fontSize=80&animation=fadeIn&fontAlignY=35&desc=DevOps%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=62&descSize=20&fontColor=ffffff" alt="Ramesh Singar Header" width="100%" />
 
   <a href="https://git.io/typing-svg">
@@ -31,7 +29,7 @@
 <div align="center">
   <img src="https://readme-jokes.vercel.app/api?hideBorder=true&qColor=000000&aColor=333333&bgColor=ffffff00" width="550" alt="Random Joke" />
 </div>
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ### 👨‍💻 About Me
 
