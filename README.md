@@ -29,13 +29,8 @@
 </div>
 
 <br />
-<div align="center">
-  <br/>
-  <h3 align="center">🤣 Daily Dose of Humor</h3>
-  
+<div align="center"> 
   <img src="https://readme-jokes.vercel.app/api?hideBorder=true&theme=light&qColor=000000&aColor=333333" width="550" alt="Random Joke" />
-  
-  <br/>
 </div>
 <br />
 
