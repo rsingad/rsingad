@@ -120,14 +120,39 @@
 
 ### 📊 GitHub Stats
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements & Analytics
 
 <div align="center">
+  
   <img src="https://github-profile-trophy.vercel.app/?username=rsingad&theme=flat&no-frame=true&column=7&margin-w=15&margin-h=15" alt="rsingad trophies" />
+  
+  <br/><br/>
+
+  <a href="https://github.com/rsingad">
+    <img src="https://github-readme-stats.vercel.app/api?username=rsingad&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="180" alt="GitHub Stats" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/rsingad">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=rsingad&theme=tokyonight&hide_border=true&background=0D1117" height="180" alt="Streak Stats" />
+  </a>
+
+  <br/>
+
+  <a href="https://github.com/rsingad">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rsingad&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" height="180" alt="Top Languages" />
+  </a>
+
+  <br/><br/>
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rsingad&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="Activity Graph" />
+
+  <br/><br/>
+
+  <img src="https://komarev.com/ghpvc/?username=rsingad&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+
 </div>
 
-<br/>
-
+---
 ### 📊 Activity Graph
 
 <div align="center">
