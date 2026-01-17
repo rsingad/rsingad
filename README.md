@@ -33,25 +33,27 @@
 
 ### 👨‍💻 About Me
 
-<table>
-  <tr>
-    <td width="60%">
-      <br>
-      Hi, I'm <b>Ramesh Singar</b>! 👋
-      <br><br>
-      I'm a <b>Full Stack Developer</b> and <b>DevOps Enthusiast</b> from Jaipur. I love building things that live on the web and ensuring they run smoothly on the server.
-      <br><br>
-      🚀 <b>My Journey:</b> Started with React & Node.js, built real-world projects during my internship, and now I'm diving deep into <b>DevOps & AI</b>.
-      <br><br>
-      🐧 <b>The Hacker Vibe:</b> I don't just use Windows; I live in <b>Kali Linux</b> to understand systems better.
-      <br><br>
-      ⚡ <b>Current Goal:</b> Mastering CI/CD pipelines and integrating AI into web apps.
-    </td>
-    <td width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Coding GIF" />
-    </td>
-  </tr>
-</table>
+<img align="right" width="35%" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding GIF" />
+
+<p>
+  Hi, I'm <b>Ramesh Singar</b>! 👋
+  <br><br>
+  I'm a <b>Full Stack Developer</b> and <b>DevOps Enthusiast</b> from Jaipur. I love building things that live on the web and ensuring they run smoothly on the server.
+</p>
+
+<p>
+  🚀 <b>My Journey:</b> Started with React & Node.js, built real-world projects during my internship, and now I'm diving deep into <b>DevOps & AI</b>.
+</p>
+
+<p>
+  🐧 <b>The Hacker Vibe:</b> I don't just use Windows; I live in <b>Kali Linux</b> to understand systems better.
+</p>
+
+<p>
+  ⚡ <b>Current Goal:</b> Mastering CI/CD pipelines and integrating AI into web apps.
+</p>
+
+<br clear="right"/>
 
 ---
 
