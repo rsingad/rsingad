@@ -1,31 +1,31 @@
 <div align="center">
- 
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,25&height=200&section=header&text=Ramesh%20Singar&fontSize=80&animation=twinkling&fontAlignY=50&desc=DevOps%20%7C%20Full%20Stack%20%7C%20AI&descAlignY=80&descSize=20&fontColor=ffffff" alt="Minimal Header" width="100%" />
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=500&color=46EA35&background=000000&center=true&vCenter=true&width=600&height=100&lines=System+Initialize:+Ramesh_Singar_Profile...;Loading+Modules:+DevOps,+React,+AI...;Target:+Building+Scalable+Systems...;Access+Granted!+%F0%9F%9A%80" alt="Terminal Boot" />
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=500&lines=Building+Scalable+Web+Apps...;Exploring+DevOps+%26+Cloud...;Learning+Generative+AI+%26+Entropy...;Always+Ready+to+Code!" alt="Typing SVG" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:2c2c2c&height=20&section=footer&animation=fadeIn&fontColor=ffffff" width="100%" />
 
   <br />
 
   <p align="center">
     <a href="mailto:r.singerjat@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+      <img src="https://img.shields.io/badge/Gmail-D14836?style=social&logo=gmail" alt="Email" />
     </a>
     &nbsp;
     <a href="https://www.linkedin.com/in/ramesh-singar/">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin" alt="LinkedIn" />
     </a>
     &nbsp;
     <a href="https://github.com/rsingad">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+      <img src="https://img.shields.io/badge/GitHub-100000?style=social&logo=github" alt="GitHub" />
     </a>
     &nbsp;
     <a href="https://instagram.com/_teja_tiger">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+      <img src="https://img.shields.io/badge/Instagram-E4405F?style=social&logo=instagram" alt="Instagram" />
     </a>
   </p>
+  
 </div>
+
 
 <br />
 <div align="center">
